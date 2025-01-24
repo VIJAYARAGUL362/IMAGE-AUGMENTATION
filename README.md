@@ -40,7 +40,7 @@ The script loads a single image, applies the specified augmentations, and displa
 2.  Navigate to the repository directory:
 
     ```bash
-    cd YOUR_REPOSITORY_NAME
+    cd IMAGE-AUGMENTATION
     ```
 
 ### Usage
