@@ -34,7 +34,7 @@ The script loads a single image, applies the specified augmentations, and displa
 1.  Clone the repository:
 
     ```bash
-    git clone IMAGE_AUGMNETATION.ipynb
+    git clone https://github.com/VIJAYARAGUL362/IMAGE-AUGMENTATION/blob/d2cd5079047c7bb7b8d5f2fa1bce6fcf0b189abb/IMAGE_AUGMNETATION.ipynb
     ```
 
 2.  Navigate to the repository directory:
